@@ -14,7 +14,7 @@
 - A passionate Self-taught Flutter developer
 - Working on Bonfire Game with Flutter
 - Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1yr1LAb16xdpBdd5dUCwjofX1dp0j5XXN/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1_ATcMpPJWOrLWeFizMEf-k9QFUBTqjfX/view?usp=sharing)
 
 <br><br>
 
